@@ -211,6 +211,7 @@ font-weight: 700;
 font-size: 35px;
 margin-bottom: 20px;
 width: 305px;
+text-align: left;
 }
 .contact-description{
   font-weight: 400;
@@ -231,6 +232,7 @@ textarea{
   width: 461px;
 height: 180px;
 border: none;
+padding: 18px;
 }
 .img-container{
   margin-top: 20px;
