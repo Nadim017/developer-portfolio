@@ -144,9 +144,93 @@ font-size: 20px;
 .resume{
   margin-top:130px;
 }
-.resume-title{
+.resume-name{
   color: #181818;
   font-weight: 700;
 font-size: 35px;
 text-align: center;
+margin-bottom: 130px;
+}
+.resume-content{
+  display: flex;
+}
+.education-content{
+  border-bottom: 1px solid #D1D1D1;
+width: 558px;
+
+margin:30px 24px
+}
+.education-heading{
+  color: #474747;
+  font-size: 30px;
+  font-weight: 700;
+  margin-bottom:30px;
+  margin-top:30px;
+}
+.subject{
+color: #474747;
+font-size: 25px;
+font-weight: 700;
+}
+.institution{
+color: #757575;
+font-size: 20px;
+margin-bottom:20px;
+margin-top:10px
+}
+.education-description{
+  color:  #757575;
+  font-weight: 400;
+  border-bottom: 40px;
+  padding-bottom: 30px;
+
+}
+.btn{
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 113px;
+}
+.contact-section{
+  background: #FFF8F3;
+}
+.contact-container{
+display: flex;
+padding: 130px 230px 130px 230px;
+}
+.contact-text{
+
+ 
+}
+.contact-form{
+
+}
+.contact-title{
+color: #181818;
+font-weight: 700;
+font-size: 35px;
+margin-bottom: 20px;
+width: 305px;
+}
+.contact-description{
+  font-weight: 400;
+  font-size: 16px;
+  color: #474747;
+  width: 230px;
+
+}
+input{
+  border: none;
+  width: 461px;
+height: 64px;
+margin-bottom: 24px;
+padding:0 20px;
+margin-right: 10px;
+}
+textarea{
+  width: 461px;
+height: 180px;
+border: none;
+}
+.img-container{
+  margin-top: 20px;
 }
